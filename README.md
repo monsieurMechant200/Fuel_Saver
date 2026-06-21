@@ -164,13 +164,5 @@ furnished to do so, subject to the following conditions:
 
 Contact
 -------
-- Auteur : monsieurMechant200
+- Auteur : David Meilleur Aat Ndongo
 - Pour support : ouvrez une issue sur ce dépôt.
-
-Remarques finales
------------------
-J'ai restructuré et clarifié le README pour faciliter la prise en main et l'extension. Si vous le souhaitez, je peux :
-- ajouter des badges (build, coverage, licence),
-- insérer des liens directs vers les permaliens GitHub des screenshots,
-- générer un `requirements.txt` automatiquement à partir des imports, ou
-- ouvrir une PR plutôt que de modifier directement la branche par défaut.
