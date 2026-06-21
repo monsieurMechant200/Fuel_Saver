@@ -2,7 +2,7 @@
 
 > Prototype de jeu et banc d'expérimentation pour l'optimisation de trajectoires, combinant planification de graphe (Dijkstra) et contrôle optimal (Hamilton–Jacobi–Bellman).
 
-![Screenshot accueil](asset/1.png) ![Screenshot partie](asset/2.png)
+![Screenshot accueil](assets/1.PNG) ![Screenshot partie](assets/2.PNG)
 
 Sommaire
 - [Présentation](#présentation)
